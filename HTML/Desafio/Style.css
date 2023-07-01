@@ -1,0 +1,39 @@
+*{ 
+
+}
+
+body {
+	background-image: url(Brown-Background.jpg);
+}
+
+[name=topMenu]{
+	text-align: center;
+	min-width: 100%;
+	background-color:#edecdf;
+}
+
+[name=mainMenu]{
+	min-width: 90%;
+	min-height: 80%;
+	margin-top: 3%;
+	padding-top: 1%;
+	padding-bottom: 3%;
+	background-color:#edecdf;
+}
+
+[name=footer]{
+	min-width: 100%;
+	margin-top: 4%;
+	background-color:#edecdf;
+}
+
+[name=mainImg]{
+	max-width: 300px;
+	height: 300px;
+}
+
+[name=subMainMenu]{
+	margin-right: 0%;
+	margin-top: 3%;
+	background-color:#d1cd9c;
+}
